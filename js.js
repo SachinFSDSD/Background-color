@@ -32,5 +32,8 @@ function changeBackground(color) {
     case "teal":
       body.classList.add("teal");
       break;
+
+    default:
+      break;
   }
 }
